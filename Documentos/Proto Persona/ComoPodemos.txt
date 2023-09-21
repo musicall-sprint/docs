@@ -1,0 +1,21 @@
+1 - Como podemos deixar mais claro como se cadastrar como músico ou organizador para facilitar a navegação do usuário?
+2 - Como podemos explicar para o usuário de forma simples o que nós fazemos?
+3 - Como podemos definir melhor as descrições de eventos/músicos para que o cliente tenha um maior interesse?
+4 - Como podemos melhorar a exibição da agenda do artista para que o organizador possa melhor visualizar a disponibilidade do músico?
+5 - Como podemos qualificar a importância dos dados fornecidos e se eles sao pertinentes ou não?
+6 - Como podemos melhorar a obtenção de feedback dos clientes a respeito da platasforma para aumentar a credibilidade da nossa solução?
+
+
+
+https://blog.sympla.com.br/blog-do-produtor/vai-fazer-um-evento-e-precisa-contratar-artistas-saiba-como-fazer/
+
+--> Muitos produtores ainda têm dificuldade de entrar em contato com uma banda ou saber exatamente qual a infraestrutura mínima necessária, fazendo com que muitos esforços sejam desperdiçados simplesmente por não saber a quem recorrer.
+Se a banda ainda não tem um tamanho considerável, encontre seus contatos em mídias sociais e sites, por exemplo. Concentre a negociação com um único integrante para facilitar a comunicação. Falar cada vez com uma pessoa diferente pode causar ruídos que podem comprometer os acordos.
+
+--> Por outro lado, se a banda já for um pouco maior e trabalhar com uma assessoria, dirija-se à pessoa responsável, pois ela está lá exatamente para facilitar o contato. Neste caso, procure pelo contato da pessoa ou agência responsável, pois ela já sabe lidar com o artista e tem informações de maneira mais precisa e direta para fechar um contrato.
+
+--> Antes de fechar com a atração musical pretendida, pesquise por contratantes anteriores. Assim você conseguirá dicas sobre as melhores maneiras de contato e saberá se houveram resultados positivos com a parceria.
+
+// Podemos destacar diversos pontos de pesquisa antes de contratar um músico, onde poderiam ser facilitados através de uma plataforma que ja disponibilizasse todas essas alternativas, como feedback de outros contratantes, notas aplicadas a suas performances, meios de comunicação (Telefone, Instagram) e informações completas de instrumentos que o artista toca, suas experiências e até exemplos de suas performances.
+
+Rider Técnico -> Conjunto de solicitações ou demandas que um performer (Artista) define como critérios para a apresentação, que normalmente são atendidos pelo local de hospedagem.	
